@@ -1,5 +1,9 @@
 /*
-	reciproci
+	Scrivere una funzione ricorsiva inverseSum(int n) che clacoli e 
+	restituisca la somma dei reciproci da 1 a n.
+
+	es. n = 4
+	out (1/4 + 1/3 + 1/2 + 1) = ...
 */
 
 #include <iostream>

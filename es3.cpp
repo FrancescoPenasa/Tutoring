@@ -1,5 +1,11 @@
 /*
-	es3 quello cone le stringhe
+	Scrivere una funzione che, preso come parametro una stringa, rimuove i caratteri uguali vicini (lasciandone sempre uno).
+
+	input s -> abbacdaeeef
+	output  -> abacdaef
+
+	Considerate il caso particolare in cui un carattere si ripeta per piu' di
+	due volte.
 */
 
 #include <iostream>

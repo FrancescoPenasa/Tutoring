@@ -1,5 +1,10 @@
 /*
-	isInRandom();
+	Scrivere una funzione isInRandom(...) che ritorna quante volte un 
+	certo numero x e' presente all'interno di un vettore A (dichiarato come
+	variabile locale nel main); aggiungere i parametri opportuni e testare la
+	funzione nel main.
+	Il numero x dev'essere un numero dichiarato nel main e inizializzato
+	con un valore random compreso tra 1 e y richiesto all'utente.
 */
 
 #include <iostream>
